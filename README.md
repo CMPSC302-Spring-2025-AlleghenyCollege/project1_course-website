@@ -2,10 +2,7 @@
 
 ## Objective
 
-Collaboratively enhance the course website, [designingtheweb.org](https://designingtheweb.org/), 
-to improve functionality, design, and accessibility. The incremental project tasks will align with weekly 
-topics covered in the course. Additionally, the website should be designed as an open-source educational 
-platform for any learner to learn web design.
+Collaboratively enhance the course website, [designingtheweb.org](https://designingtheweb.org/), to improve functionality, design, and accessibility. The incremental project tasks will align with weekly topics covered in the course.
 
 ## Overview
 
@@ -81,7 +78,7 @@ This project is assessed on a pass/fail basis as discussed in the syllabus. To r
 
 - **Participation and Engagement**
   - Active participation in team meetings and discussions.
-  - Regular contributions to the project board and task assignments.
+  - Regular contributions to the project board and task assignments (must show up on GitHub).
 
 - **Task Completion**
   - Completion of assigned tasks in individual branches.
