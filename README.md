@@ -57,7 +57,13 @@ Project milestones will be released as sprints as the semester progresses. See [
   - New logo and cohesive branding
   - Responsive and accessible implementation
   - Infrastructure for prioritized features from Sprint 1:
-    - TO ADD
+    1. A new page to the website that contains all the students who have contributed to the enhancement of the website
+    2. Calendar view of the schedule
+    3. Resource page
+    4. Upgrade the syllabus page (nothing needs to be done for this one now)
+    5. Add ads
+    6. Search bar
+    7. Light/dark mode capability
 
 See Assessment Criteria section below for detailed requirements and grading specifications.
 
