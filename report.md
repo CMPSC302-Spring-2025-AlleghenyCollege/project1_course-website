@@ -1,33 +1,87 @@
-# Website Audit Report for designingtheweb.org
+# Landing Page Implementation Report
 
 ## Team Members
-- Member 1: Name, Role
-- Member 2: Name, Role
-- Member 3: Name, Role
-- Member 4: Name, Role
+- Member 1: Name, Role/Contributions
+- Member 2: Name, Role/Contributions
+- Member 3: Name, Role/Contributions
+- Member 4: Name, Role/Contributions
 
-## Introduction
-Provide a brief introduction to the audit and the goals of the report.
+## Repo
 
-## Audit Findings
-### Accessibility
-- **Issues Identified:** List and describe any accessibility issues found.
-- **Recommendations:** Provide recommendations for addressing these issues.
+- [Link to your fork]()
 
-### Responsiveness
-- **Issues Identified:** List and describe any responsiveness issues found.
-- **Recommendations:** Provide recommendations for addressing these issues.
+## Design Documentation
 
-### Navigation and User Flow
-- **Issues Identified:** List and describe any navigation and user flow issues found.
-- **Recommendations:** Provide recommendations for addressing these issues.
+### Figma Design
+- [Link to Figma Design]()
+- Brief description of major design changes from Sprint 1
 
-### Functionality
-- **Issues Identified:** List and describe any functionality issues found.
-- **Recommendations:** Provide recommendations for addressing these issues.
+### Design Choices Justification
 
-## Conclusion
-Summarize the key findings of the audit and the recommended improvements.
+Justify all your choices below (must be backed up by a source)
+
+#### Layout
+- Description of layout choices
+
+#### Color Scheme
+- Description of chosen colors and their significance
+- Color psychology/theory references
+- Accessibility considerations (contrast ratios, etc.)
+
+#### Typography
+- Selected typefaces and reasoning
+- Hierarchy implementation
+- Readability considerations
+
+#### Logo Design
+- Design process and choices
+- Connection to overall brand identity
+- Color scheme integration
+
+## Implementation Process
+
+### Responsive Design
+- Breakpoint strategy
+- Mobile-first approach implementation
+- Testing results across devices
+
+### Accessibility Features
+- WCAG compliance measures
+- Screen reader considerations
+- Keyboard navigation implementation
+- ARIA labels and roles
+
+### Technical Challenges
+- Description of major challenges faced
+- Solutions implemented
+- Lessons learned
+
+## Testing and Validation
+
+### Responsive Testing
+- Devices/screen sizes tested
+- Issues found and resolved
+
+### Accessibility Testing
+- Tools used (e.g., WAVE, Lighthouse)
+- Test results
+- Improvements made
+
+### Browser Compatibility
+- Browsers tested
+- Issues found and resolved
+
+## Collaboration Evidence
+- Link to GitHub project board
+- Summary of issue management
+- PR review process highlights
+
+## Future Improvements
+- Areas identified for future enhancement
+- Pending features
+- Known limitations
 
 ## References
-List any references or resources used in the report.
+- Course materials citations
+- External resources used
+- Design inspiration sources

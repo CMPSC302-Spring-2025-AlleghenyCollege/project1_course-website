@@ -36,66 +36,65 @@ The project learning outcomes apply to all course and distribution learning outc
 
 ## Project Milestones
 
-Project milestones will be released as sprints as the semester progresses. The first sprint requirements include planning and prototyping as described below.
+Project milestones will be released as sprints as the semester progresses. See [Sprint 1](sprint1.md) for the first sprint requirements focused on planning and prototyping.
 
-### Sprint 1 (Weeks 2-4): Planning
-### DUE: February 3, 2025
+### Sprint 2 (Weeks 4-7): Landing Page Implementation
+### DUE: February 24, 2025 by 2:30pm
 
-- **Overall Tasks:**
-  - General design audit: Evaluate the overall website's UI/UX to suggest basic improvements like layout, typography, and structure.
-  - Testing: Make sure the website and its components function as intended.
-  - Responsiveness and mobile-first improvements: Ensure the website works well on mobile devices.
-  - Content: Decide the type and the organization of content for learning web design, keeping in mind that a lot of new learning content must be added. 
-  - Wireframing: Use Figma to create a website representation with new features and improvements.
-  - GitHub setup and version control: Set up repositories, practice basic GitHub workflows, and organize the repository for future use.
+- **Key Dates:**
+  - February 12th: In-class peer review of updated Figma designs
+  - February 24th: Final implementation due, presentations
 
-- **Individual Tasks:**
-  - Each team member should be assigned a specific task to work on.
-  - Work in individual branches in your team's `project1` repository and create pull requests (PRs) for review and approval. Must obtain at least two approvals before merge. 
+- **Development Process:**
+  -  Create a fork of the [course website repository](https://github.com/CMPSC302-Spring-2025-AlleghenyCollege/designingtheweb.org) by clicking on [this GitHub Classroom link](https://classroom.github.com/a/bhaB1z_7)
+  - Create and manage issues in your fork
+  - Link issues to your project board
+  - Use branching strategy with pull requests
+  - Minimum of 2 team member reviews per PR
 
-- **Agile Workflow:**
-  - Set up a project board with all tasks to complete and assign tasks to members of the team.
-  - Conduct regular meetings to discuss progress and plan next steps. This includes stand-up meetings at the beginning of each class.
-  - Follow agile methodology with sprints, including sprint planning and sprint reviews. 
+- **Required Features Summary:**
+  - Professional layout and design system
+  - New logo and cohesive branding
+  - Responsive and accessible implementation
+  - Infrastructure for prioritized features from Sprint 1:
+    - TO ADD
 
-- **Deliverables:**
-  - Clone the course website repository and set up a local development environment. Set up [quarto](https://quarto.org/docs/get-started/) and demonstrate that you can run [quarto](https://quarto.org/docs/websites/) locally. Each individual must show the instructor that they can render the course website from VSCode to receive a checkmark for this first task in sprint 1.
-  - Set up and maintain a project board.
-  - Conduct a website audit focusing on:
-    - Accessibility (e.g., contrast, screen reader support)
-    - Responsiveness (mobile vs. desktop views)
-    - Navigation and user flow
-    - Functionality
-  - Submit a report summarizing findings in `report.md`.
-  - Submit a short proposal outlining potential new features and improvements in `proposal.md`.
-  - Submit a wireframing representation of the proposed course website.
-  - Present your proposed website on February 3rd.
-  - Work as a whole class to determine which proposed features and improvements will be made for next sprint. 
+See Assessment Criteria section below for detailed requirements and grading specifications.
 
 ## Assessment Criteria
 
-This project is assessed on a pass/fail basis as discussed in the syllabus. To receive credit for this assignment, you must pass each sprint. For sprint 1, you must meet the following criteria:
+This project is assessed on a pass/fail basis as discussed in the syllabus. To receive credit for this assignment, you must pass each sprint. For sprint 2, you must meet the following criteria:
 
 - **Participation and Engagement**
-  - Active participation in team meetings and discussions.
-  - Regular contributions to the project board and task assignments (must show up on GitHub).
+  - Active participation in team meetings and discussions
+  - Regular contributions to the project board and task assignments (must show up on GitHub)
+  - Meaningful participation in the February 12th peer review session
 
 - **Task Completion**
-  - Completion of assigned tasks in individual branches.
-  - Creation and approval of pull requests (PRs) with at least two reviews.
+  - Completion of assigned tasks (GitHub issues) in individual branches
+  - Creation and approval of pull requests (PRs) with at least two reviews
+  - Implementation of all required features (see above) for the landing page
 
 - **Deliverables**
-  - Submission of a comprehensive website audit report (`report.md`).
-  - Submission of a detailed proposal for new features and improvements (`proposal.md`).
-  - Submission of wireframing representations using Figma.
-  - Presentation of the proposed website on February 3rd.
+  - Updated Figma wireframes with peer review feedback incorporated
+  - Fully implemented landing page with:
+    - Professional layout and design
+    - Responsive design implementation
+    - Accessible baseline features
+    - Working navigation and footer
+  - Comprehensive report documenting design choices and implementation
+  - Functioning GitHub project board with linked issues
+  - Evidence of regular commits and proper Git workflow ([consult week 2 slides](https://designingtheweb.org/schedule/week2/#/branches))
 
-- **Collaboration and Process**
-  - Effective use of Git and GitHub for collaboration.
-  - Evidence of peer feedback and teamwork.
+- **Design Quality**
+  - Adherence to web design principles covered in Week 4
+  - Justified design choices with proper citations
+  - Successful implementation of color scheme and typography
+  - Professional and cohesive visual identity
 
-- **Documentation and Presentation**
-  - Clarity and thoroughness of documentation.
-  - Professional and engaging presentation.
-
-To pass, all deliverables must be completed and submitted by the deadlines, and the project must demonstrate a meaningful engagement with the course material and objectives.
+- **Technical Implementation**
+  - Clean, well-organized code
+  - Proper responsive design implementation
+  - WCAG compliance for accessibility
+  - Cross-browser compatibility
+  - Successful repository management
